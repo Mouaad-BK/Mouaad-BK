@@ -100,6 +100,6 @@ Python • Flask • HTML • CSS • JavaScript
 ## 📫 Contact
 
 * 💼 LinkedIn: https://linkedin.com/in/mouaad-bk
-* 📧 Email: [your.email@example.com](mailto:bouishak.mouaad@gmail.com)
+* 📧 Email: [bouishak.mouaad@gmail.com](mailto:bouishak.mouaad@gmail.com)
 * 🐙 GitHub: https://github.com/Mouaad-BK
 * 📷 Instagram: https://instagram.com/mouaad_bouishak
