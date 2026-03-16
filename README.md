@@ -55,3 +55,51 @@ Data & AI student focused on building ETL pipelines, machine learning systems, a
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge\&logo=snowflake)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
+
+## 📌 Featured Projects
+
+### 🌦 Weather Data ETL Pipeline
+
+Development of an ETL pipeline for collecting, processing, and analyzing weather data.
+
+**Key components**
+
+* Data collection from OpenWeather API and CSV datasets
+* Data cleaning and transformation pipeline
+* Storage of processed data in a cloud-hosted PostgreSQL database
+* Automated pipeline orchestration with Apache Airflow running in Docker
+* Interactive data visualization dashboard built with Power BI
+
+**Technologies**
+
+Python • PostgreSQL • Apache Airflow • Docker • Power BI • Cloud
+
+---
+
+### 📈 Profit Prediction Web Application
+
+Development of a web application for profit prediction using machine learning.
+
+**Key components**
+
+* Implementation of a multiple linear regression model
+* Model evaluation and performance analysis
+* Development of a web interface using Flask
+* Integration of the machine learning model into an interactive application
+
+**Technologies**
+
+Python • Flask • HTML • CSS • JavaScript
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouaad-BK\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouaad-BK\&layout=compact)
+
+## 📫 Contact
+
+* 💼 LinkedIn: https://linkedin.com/in/mouaad-bk
+* 📧 Email: [your.email@example.com](mailto:bouishak.mouaad@gmail.com)
+* 🐙 GitHub: https://github.com/Mouaad-BK
+* 📷 Instagram: https://instagram.com/mouaad_bouishak
