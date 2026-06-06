@@ -34,6 +34,7 @@ Data & AI student focused on building Data Engineering pipelines, Machine Learni
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%Kafka-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### 🤖 Machine Learning & AI
 
