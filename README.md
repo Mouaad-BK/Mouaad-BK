@@ -39,7 +39,6 @@ Data & AI student focused on building Data Engineering pipelines, Machine Learni
 ### 🤖 Machine Learning & AI
 
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### 📊 Data Analysis & Visualization
