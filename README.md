@@ -83,7 +83,7 @@ Development of an end-to-end MLOps platform for solar energy production forecast
 
 **Technologies**
 
-Python • PySpark • XGBoost • MLflow • FastAPI • Apache Airflow • Docker • AWS S3 • Snowflake
+Python • PySpark • XGBoost • MLflow • FastAPI • Apache Airflow • Docker • AWS S3 • Snowflake • dbt • SQL 
 
 ---
 
@@ -104,7 +104,7 @@ Development of a restaurant recommendation and sentiment analysis system based o
 
 **Technologies**
 
-Python • NLP • Scikit-Learn • XGBoost • MLflow • PostgreSQL • TF-IDF
+Python • NLP • Scikit-Learn • ML • MLflow • PostgreSQL • TF-IDF
 
 ---
 
@@ -128,9 +128,7 @@ Python • PostgreSQL • Apache Airflow • Docker • Power BI • Railway
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouaad-BK&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouaad-BK&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=Mouaad-BK)
 
 ## 📫 Contact
 
