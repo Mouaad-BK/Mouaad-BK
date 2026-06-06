@@ -128,7 +128,9 @@ Python • PostgreSQL • Apache Airflow • Docker • Power BI • Railway
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mouaad-BK)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mouaad-BK&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouaad-BK&layout=compact)
 
 ## 📫 Contact
 
