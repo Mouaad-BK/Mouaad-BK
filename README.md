@@ -62,6 +62,27 @@ Data & AI student focused on building Data Engineering pipelines, cloud data pla
 
 ## 📌 Featured Projects
 
+### 🔷 Azure Real-Time Payment Processing Data Platform 
+
+**Azure Data Engineering**
+
+Development of a real-time financial transaction processing platform for a Payment Service Provider.
+
+**Key components**
+
+* Implemented real-time streaming of PostgreSQL and Stripe Sandbox transactions via Apache Kafka.
+* Designed a Data Lake on ADLS Gen2 following the Medallion architecture (Bronze, Silver, Gold).
+* Developed transformation and distributed processing pipelines with Azure Databricks/PySpark.
+* Built an analytical layer with Azure Synapse and developed Power BI dashboards to analyze transactions, customers, cards, and merchants.
+*  Orchestrated the pipeline with Apache Airflow and implemented monitoring with Grafana.
+* Developed an anomaly detection model to identify unusual transactions.
+
+**Technologies**
+
+Python • SQL • Apache Kafka • Microsoft Azure • Azure Databricks • ADLS Gen 2 • Apache Airflow • Docker • Azure Synapse • Azure Functions • Anomaly Detection • Isolation Forest • Power BI
+
+---
+ 
 ### ☀️ Solar Energy Forecasting Platform
 
 **MLOps**
