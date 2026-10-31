@@ -158,7 +158,3 @@ Python • PostgreSQL • Apache Airflow • Docker • Power BI • Railway
 * 🐙 GitHub: https://github.com/Mouaad-BK
 * 📷 Instagram: https://instagram.com/mouaad_bouishak
 
-  ## 👁️ Profile Views
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMouaad-BK&countColor=%23263759)
-
